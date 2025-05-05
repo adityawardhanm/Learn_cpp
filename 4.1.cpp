@@ -83,4 +83,5 @@ int main() {
     Data value;
     value.intValue = 42;
     std::cout << "intValue: " << value.intValue << "\n";
+    return 0;
 }
