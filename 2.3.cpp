@@ -1,5 +1,5 @@
-// 1.8.cpp
-// looping using for and while
+// 2.3.cpp
+// looping using for , do-while and while
 
 #include <iostream>
 

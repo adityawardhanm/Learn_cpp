@@ -1,4 +1,4 @@
-// 1.7.cpp
+// 2.2.cpp
 // switch statement
 #include <iostream>
 

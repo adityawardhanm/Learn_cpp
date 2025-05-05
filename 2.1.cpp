@@ -1,4 +1,4 @@
-// 1.6.cpp
+// 2.1.cpp
 // if - else statement
 #include <iostream>
 
