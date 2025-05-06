@@ -38,8 +38,6 @@ The given repository is made for learning C++ for game development
 
 4.3 - Dynamic Typing
 
-4.4 - Run-Time Type Identification (RTTI)
-
-4.5 - Pointers and References
+4.4 - Pointers and References
 
 # 5 - 

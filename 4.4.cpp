@@ -1,12 +1,7 @@
 // 4.4.cpp
-// RTTI
+// Pointers and References
 
 #include <iostream>
-
-
-
-
-
 
 int main(){
     
