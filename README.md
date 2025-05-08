@@ -8,7 +8,7 @@ The given repository is made for learning C++ for game development
 
 1.2 - iostream : Input and Output
 
-1.3 - Arithemetic Operations
+1.3 - Arithmetic Operations
 
 1.4 - Bitwise/Binary Operations 
 
@@ -38,6 +38,9 @@ The given repository is made for learning C++ for game development
 
 4.3 - Dynamic Typing
 
-4.4 - Pointers and References
+# 5 - Pointers and References
 
-# 5 - 
+5.1 - Pointers
+
+5.2 - References
+
