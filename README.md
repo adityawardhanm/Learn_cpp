@@ -44,3 +44,7 @@ The given repository is made for learning C++ for game development
 
 5.2 - References
 
+# 6 - Memory Model
+
+6.1 - Stack and Heap Memory
+
