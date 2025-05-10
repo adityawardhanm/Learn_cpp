@@ -4,6 +4,7 @@ The given repository is made for learning C++ for game development
 
 
 # 1 - Basics 
+
 1.1 - Hello World and Newline
 
 1.2 - iostream : Input and Output
@@ -47,4 +48,6 @@ The given repository is made for learning C++ for game development
 # 6 - Memory Model
 
 6.1 - Stack and Heap Memory
+
+6.2 - Data Segments
 
