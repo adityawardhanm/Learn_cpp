@@ -52,3 +52,27 @@ The given repository is made for learning C++ for game development
 6.2 - Data Segments
 
 # 7 - Polymorphism
+
+7.1 - Static Polymorphism
+
+7.2 - Dynamic Polymorphism
+
+# 8 - Pointers
+
+8.1 - Raw Pointer
+
+8.2 - Weak Pointer
+
+8.3 - Shared Pointer
+
+8.4 - Unique Pointer
+
+# 9 - Structuring Codebase
+
+9.1 - Forward Declaration
+
+9.2 - Namespace
+
+9.3 - Scope
+
+9.4 - Headers
