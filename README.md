@@ -67,6 +67,8 @@ The given repository is made for learning C++ for game development
 
 8.4 - Unique Pointer
 
+8.5 - New / Delete Operators and Memory Leakage 
+
 # 9 - Structuring Codebase
 
 9.1 - Forward Declaration
