@@ -73,8 +73,9 @@ The given repository is made for learning C++ for game development
 
 9.1 - Forward Declaration
 
-9.2 - Namespace
+9.2 - Headers
 
 9.3 - Scope
 
-9.4 - Headers
+9.4 - Namespaces
+
