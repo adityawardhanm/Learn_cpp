@@ -18,12 +18,8 @@ void print(const T& value){
     cout << value << endl;
 }
 
-
-
 int main() {
     print(add(5, 10));
     print(add(5.5, 10.5));
     return 0;
-
-
 }
