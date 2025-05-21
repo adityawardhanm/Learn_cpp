@@ -3,7 +3,7 @@
 The given repository is made for learning C++ for game development
 
 
-# 1 - Basics 
+# 01 - Basics 
 
 1.1 - Hello World and Newline
 
@@ -15,7 +15,7 @@ The given repository is made for learning C++ for game development
 
 1.5 - Conditional Operations
 
-# 2 - Conditional Statements and Looping
+# 02 - Conditional Statements and Looping
 
 2.1 - if/elseif/else statement
 
@@ -23,7 +23,7 @@ The given repository is made for learning C++ for game development
 
 2.3 - for/while/do-while looping statements
 
-# 3 - Functions
+# 03 - Functions
 
 3.1 - Functions and Function Prototyping
 
@@ -31,7 +31,7 @@ The given repository is made for learning C++ for game development
 
 3.3 - Lambda Function 
 
-# 4 - Data Types
+# 04 - Data Types
 
 4.1 - Data Types
 
@@ -39,25 +39,25 @@ The given repository is made for learning C++ for game development
 
 4.3 - Dynamic Typing
 
-# 5 - Pointers and References
+# 05 - Pointers and References
 
 5.1 - Pointers
 
 5.2 - References
 
-# 6 - Memory Model
+# 06 - Memory Model
 
 6.1 - Stack and Heap Memory
 
 6.2 - Data Segments
 
-# 7 - Polymorphism
+# 07 - Polymorphism
 
 7.1 - Static Polymorphism
 
 7.2 - Dynamic Polymorphism
 
-# 8 - Pointers
+# 08 - Pointers
 
 8.1 - Raw Pointer
 
@@ -69,7 +69,7 @@ The given repository is made for learning C++ for game development
 
 8.5 - New / Delete Operators and Memory Leakage 
 
-# 9 - Structuring Codebase
+# 09 - Structuring Codebase
 
 9.1 - Forward Declaration
 
@@ -78,4 +78,26 @@ The given repository is made for learning C++ for game development
 9.3 - Scope
 
 9.4 - Namespaces
+
+# 10 - Object Oriented Programming
+
+10.1 - Classes
+
+10.2 - Encapsulation\
+
+10.3 - Structures
+
+# 11 - Inheritance
+
+11.1 - Single Inheritance
+
+11.2 - Multilevel Inheritance
+
+11.3 - Hierarchical Inheritance
+
+11.4 - Multiple Inheritance
+
+11.5 - Hybrid  Inheritance 
+
+11.6 - Multipath Inheritance
 
